@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.redwood.com/wordpress/Paradigm-banner.gif)]
+![MasterHead](https://cdn.redwood.com/wordpress/Paradigm-banner.gif)
 <h1 align="center">Hi 👋, I'm Rinku Gohel</h1>
 <h3 align="center">A passionate frontend And Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
